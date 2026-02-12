@@ -1,6 +1,10 @@
 # network-lab
 
-<b>Below is a high level look at a network design I made via Cisco Packet Tracer. I have also attached the file to my repository if you wish to view it more in-depth in the Packet Tracer environment.</b>
+<b>Below is a high level look at a network design I made via Cisco Packet Tracer. I have also attached the file to my repository if you wish to view it more in-depth in the Packet Tracer environment.</b>br>
+<br>
+<br>
+<br>
+<br>
 <p> <img width="1400" height="819" alt="Screenshot 2026-02-12 141042" src="https://github.com/user-attachments/assets/95ca41b7-8d84-4af7-9c84-8eda1fa727bd" />
 A logical diagram of my network utilizing a router-on-a-stick design. </p>
 <br>
