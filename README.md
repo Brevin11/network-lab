@@ -1,6 +1,7 @@
 # network-lab
 
-<b>Below is a high level look at a network design I made via Cisco Packet Tracer. I have also attached the file to my repository if you wish to view it more in-depth in the Packet Tracer environment.</b>br>
+<b>Below is a high level look at a network design I made via Cisco Packet Tracer. I have also attached the file to my repository if you wish to view it more in-depth in the Packet Tracer environment.</b>
+<br>
 <br>
 <br>
 <br>
